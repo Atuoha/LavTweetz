@@ -4,10 +4,10 @@ LavTweetz is an implementation of ThuJohn Laravel Twitter API usage on Github
 
 # To Use:
 Request for a twitter developer account so as to get access to credentials like
-TWITTER_CONSUMER_KEY
-TWITTER_CONSUMER_SECRET
-TWITTER_ACCESS_TOKEN
-TWITTER_ACCESS_TOKEN_SECRET
+TWITTER_CONSUMER_KEY -|-
+TWITTER_CONSUMER_SECRET -|-
+TWITTER_ACCESS_TOKEN -|-
+TWITTER_ACCESS_TOKEN_SECRET -|-
 
 The process is really tricky but it's worth it I guess
 
